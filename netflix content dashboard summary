@@ -1,0 +1,34 @@
+# netflix-content-analytics-dashboard
+Interactive Netflix Content Analytics Dashboard built using Power BI to analyze movies, TV shows, ratings, genres, countries, and release trends.
+## Project Overview
+
+This Power BI dashboard provides insights into Netflix's content library, including movies, TV shows, ratings, genres, countries, and release trends.
+
+## Key Metrics
+- Total Shows
+- Total Ratings
+- Total Countries
+- Total Cast Members
+- Total Genres
+- Total Directors
+
+## Dashboard Features
+- Ratings Distribution
+- Genre Analysis
+- Content Type Distribution (Movies vs TV Shows)
+- Country-wise Content Analysis
+- Release Year Trends
+- Top Producing Countries
+- Interactive Filters and Slicers
+
+## Tools Used
+- Power BI
+- DAX
+- Power Query
+- Data Modeling
+- Data Visualization
+
+## Files Included
+- Netflix_Dashboard.pbix
+- Dashboard_Screenshot.png
+- README.md
